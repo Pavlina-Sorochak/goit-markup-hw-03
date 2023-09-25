@@ -209,7 +209,7 @@ img {
   gap: 24px;
   padding: 0 156px;
 }
-.feature-li {
+.feature-list-item {
   width: calc((100% - 72px) / 4);
 }
 .feature .title {
