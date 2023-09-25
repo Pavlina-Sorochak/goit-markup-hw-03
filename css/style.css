@@ -36,6 +36,7 @@ img {
 .container {
   width: 1158px;
   padding: 0 15px;
+  margin: 0 auto;
 }
 
 /*Header*/
@@ -50,6 +51,7 @@ img {
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
+  margin: 0 auto;
 }
 .logo-web {
   color: #4d5ae5;
