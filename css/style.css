@@ -248,9 +248,11 @@ img {
 }
 .our-team-list {
   width: calc((100% - 3 * 24px) / 4);
-  background-color: #ffffff;
+}
+.our-team-list {
   border-radius: 0px 0px 4px 4px;
 }
+
 .team-list-about {
   display: flex;
   flex-direction: column;
