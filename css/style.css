@@ -35,13 +35,16 @@ img {
 }
 .container {
   width: 1158px;
-  margin: auto;
+  margin: 0 auto;
   padding: 0 15px;
 }
 
 /*Header*/
 .site-header {
   border-bottom: 1px solid #e7e9fc;
+}
+.container-header {
+  display: flex;
 }
 .logo-web {
   color: #4d5ae5;
