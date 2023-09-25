@@ -45,6 +45,7 @@ img {
 }
 .container-header {
   display: flex;
+  margin: 0 auto;
 }
 .logo-web {
   color: #4d5ae5;
