@@ -311,7 +311,7 @@ img {
   row-gap: 48px;
   padding: 0 156px;
 }
-.our-portfolio-li {
+.our-portfolio-list-item {
   width: calc((100% - 48px) / 3);
 }
 .our-portfolio-list-about {
