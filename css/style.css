@@ -22,7 +22,6 @@ h5,
 h6,
 p {
   margin: 0;
-  margin: 0;
 }
 ul {
   margin: 0;
@@ -32,6 +31,7 @@ img {
   display: block;
   max-width: 100%;
   object-fit: cover;
+  height: 0;
 }
 .container {
   width: 1158px;
@@ -50,7 +50,6 @@ img {
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
-  margin: 0 auto;
 }
 .logo-web {
   color: #4d5ae5;
